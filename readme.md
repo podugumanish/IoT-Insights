@@ -1,7 +1,7 @@
 IoT Services
-Oil
-Energy
-Weigher
+Oil: ToDo
+Energy: Under Development
+Weigher: ToDo
 
 Services integerated
 ORM for CRUD
