@@ -11,3 +11,7 @@
 ## Integrated Features
 
 - ✅ ORM implemented for full **CRUD** operations
+
+Authentication and Authorization of users: ORM
+Reporting in datatable: GraphQL
+Cache: Redis Cache
