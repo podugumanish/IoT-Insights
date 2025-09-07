@@ -1,8 +1,13 @@
-IoT Services
-Oil: ToDo
-Energy: Under Development
-Weigher: ToDo
+## IoT Services Status
 
-Services integerated
-ORM for CRUD
+| Service  | Status             |
+|---------|------------------|
+| **Oil**     | 📝 To Do           |
+| **Energy**  | 🚧 Under Development |
+| **Weigher** | 📝 To Do           |
 
+---
+
+## Integrated Features
+
+- ✅ ORM implemented for full **CRUD** operations
