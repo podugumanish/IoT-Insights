@@ -15,3 +15,4 @@
 Authentication and Authorization of users: ORM
 Reporting in datatable: GraphQL
 Cache: Redis Cache
+ToLearn: ANN, VectorDB
